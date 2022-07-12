@@ -1,0 +1,12 @@
+<datasetbuilderplugin scriptid="customscript_hitc_actuals_dataset">
+  <description>Scripted dataset</description>
+  <isinactive>F</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>HITC Actuals Dataset</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <runasrole></runasrole>
+  <scriptfile>[/SuiteScripts/hitcActualsDataset.js]</scriptfile>
+  <status>RELEASED</status>
+</datasetbuilderplugin>

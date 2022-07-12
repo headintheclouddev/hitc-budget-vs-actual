@@ -1,0 +1,7 @@
+{
+  "name": "hitc-budget-vs-actual",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2022.1.7"
+  }
+}

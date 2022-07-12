@@ -1,0 +1,12 @@
+<workbookbuilderplugin scriptid="customscript_hitc_budget_v_actual_wb">
+  <description>Scripted workbook</description>
+  <isinactive>F</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>HITC Budget vs Actual Workbook</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <runasrole></runasrole>
+  <scriptfile>[/SuiteScripts/hitcBudgetVsActualWB.js]</scriptfile>
+  <status>RELEASED</status>
+</workbookbuilderplugin>

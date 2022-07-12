@@ -1,0 +1,22 @@
+<suitelet scriptid="customscript_hitc_budget_v_actual_sl">
+    <defaultfunction>onRequest</defaultfunction>
+    <name>HITC Budget Vs Actual Suitelet</name>
+    <notifyowner>T</notifyowner>
+    <scriptfile>[/SuiteScripts/hitcBudgetVsActualSuitelet.js]</scriptfile>
+    <scriptdeployments>
+        <scriptdeployment scriptid="customdeploy1">
+            <allroles>T</allroles>
+            <isdeployed>T</isdeployed>
+            <loglevel>DEBUG</loglevel>
+            <status>RELEASED</status>
+            <runasrole>ADMINISTRATOR</runasrole>
+            <title>HITC Budget Vs Actual</title>
+            <links>
+                <link>
+                    <linkcategory>EMPLOYEEHOMECUSTOM</linkcategory>
+                    <linklabel>HITC Budget vs Actual</linklabel>
+                </link>
+            </links>
+        </scriptdeployment>
+    </scriptdeployments>
+</suitelet>

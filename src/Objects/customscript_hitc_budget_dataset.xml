@@ -1,0 +1,12 @@
+<datasetbuilderplugin scriptid="customscript_hitc_budget_dataset">
+  <description>Scripted dataset</description>
+  <isinactive>F</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>HITC Budget Dataset</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <runasrole></runasrole>
+  <scriptfile>[/SuiteScripts/hitcBudgetDataset.js]</scriptfile>
+  <status>RELEASED</status>
+</datasetbuilderplugin>
